@@ -1,0 +1,24 @@
+{
+  "app": "jex",
+  "version": "0.1.0",
+  "active": true,
+  "stars": 0,
+  "maintainers": [
+    {"name": "Ada Lovelace", "role": "lead", "commits": 142},
+    {"name": "Grace Hopper", "role": "contributor", "commits": 87}
+  ],
+  "config": {
+    "theme": "dark",
+    "keybindings": {
+      "quit": "q",
+      "search": "/",
+      "expand": "e"
+    },
+    "features": ["tree-view", "search", "clipboard", "stdin"]
+  },
+  "metadata": {
+    "created": "2026-04-01",
+    "license": "MIT",
+    "tags": ["tui", "json", "developer-tools"]
+  }
+}
